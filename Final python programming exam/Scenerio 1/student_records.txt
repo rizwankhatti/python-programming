@@ -1,0 +1,7 @@
+Rizwan, 85
+Usman, 90
+Taha, 75
+Jamshed, 82
+Uzair, 95
+Sajid, 78
+
